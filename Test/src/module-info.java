@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author elnag
- *
- */
-module Test {
-}
